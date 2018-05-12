@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '39618'
     url: http://www.gutenberg.org/2009/agents/39618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45527#Omnia-Opera-Sancti-PatriciiAll-the-Works-of-Saint-Patrick
 gutenberg_issued: '2014-04-28'
 gutenberg_type: Text
 identifiers:
