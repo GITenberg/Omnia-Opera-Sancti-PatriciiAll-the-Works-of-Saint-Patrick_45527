@@ -1,0 +1,38 @@
+_repo: Omnia-Opera-Sancti-PatriciiAll-the-Works-of-Saint-Patrick_45527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Patrick, Saint
+    aliases:
+    - Ireland, Saint Patrick of
+    - Padraigh, Naomh
+    - Pádraigh, Naomh
+    gutenberg_agent_id: '39618'
+    url: http://www.gutenberg.org/2009/agents/39618
+description: ''
+gutenberg_issued: '2014-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45527'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christian saints -- Ireland -- Biography'
+- !lcsh 'Christian literature, Latin (Medieval and modern) -- Ireland'
+- !lcsh 'Patrick, Saint, 373?-463?'
+- !lcsh 'Ireland -- Church history -- To 1172 -- Sources'
+tableOfContents: 'Scripti Sancto Patricio: Confessio. Epistola Ad Coroticum. Synodus
+  Episcoporum Patricii, Auxilii et Issernini. Proverbia Aliqua. Canones S. Patricio
+  Ascripti -- Attributi Sancto Patricio: Synodus S. Patricio Attributi. Canones Alii
+  S. Patricio Attributi. Charta S. Patricii. De Tribus Habitaculis Liber. Liber De
+  Duodecim Abusionibus Saeculi'
+title: 'Omnia Opera Sancti Patricii
+
+  All the Works of Saint Patrick'
+url: http://www.gutenberg.org/ebooks/45527
